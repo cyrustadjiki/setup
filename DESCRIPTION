@@ -1,0 +1,16 @@
+Package: setup
+Title: Personal Package to help set up R Projects
+Version: 0.0.0.9000
+Authors@R: 
+    person("Cyrus", "Tadjiki", , "tadjiki@npcresearch.com", role = c("aut", "cre"))
+Description: Personal Package to help set up R Projects
+Imports:
+  skimr,
+  sjlabelled,
+  haven,
+  janitor,
+  tidyverse
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
